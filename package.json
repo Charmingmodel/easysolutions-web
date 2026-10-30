@@ -1,0 +1,28 @@
+{
+  "name": "easysolutions-web",
+  "version": "1.0.0",
+  "description": "Nationwide Nigerian Agricultural Commodity Marketplace & Escrow",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charmingmodel/easysolutions-web.git"
+  },
+  "keywords": [
+    "agriculture",
+    "commodity",
+    "marketplace",
+    "escrow"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charmingmodel/easysolutions-web/issues"
+  },
+  "homepage": "https://github.com/Charmingmodel/easysolutions-web#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
